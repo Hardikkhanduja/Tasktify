@@ -4,7 +4,7 @@ A minimal and elegant task management app built with React, featuring a clean de
 
 ## 🔗 Live Demo
 
-[Add your deployed URL here]
+https://tasktify-nine.vercel.app/
 
 ## ✨ Features
 
@@ -102,7 +102,7 @@ This project is [MIT](LICENSE) licensed.
 **Hardik Khanduja**
 
 - GitHub: [@Hardikkhanduja](https://github.com/Hardikkhanduja)
-- LinkedIn: [Hardik Khanduja](https://linkedin.com/in/Hardik Khanduja)
+- LinkedIn: [Hardik Khanduja](https://linkedin.com/in/HardikKhanduja)
 
 
 ## ⭐ Show your support

@@ -87,7 +87,10 @@ Get an overview of your productivity with:
 
 ## 📱 Screenshots
 
-[Add screenshots here]
+<img width="943" height="808" alt="image" src="https://github.com/user-attachments/assets/fbec82f8-3879-482d-87b2-afd46deb59f2" />
+<img width="1013" height="818" alt="image" src="https://github.com/user-attachments/assets/c7f0aa32-fe3a-4522-bc80-674d0ae337d4" />
+
+
 
 ## 🤝 Contributing
 
@@ -102,7 +105,7 @@ This project is [MIT](LICENSE) licensed.
 **Hardik Khanduja**
 
 - GitHub: [@Hardikkhanduja](https://github.com/Hardikkhanduja)
-- LinkedIn: [Hardik Khanduja](https://www.linkedin.com/in/hardik-khanduja-033a64259)
+- LinkedIn: [Hardik Khanduja](https://www.linkedin.com/in/hardik-khanduja-60a9a6287)
 - Email: khanduja.hardik001@gmail.com
 
 

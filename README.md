@@ -102,7 +102,8 @@ This project is [MIT](LICENSE) licensed.
 **Hardik Khanduja**
 
 - GitHub: [@Hardikkhanduja](https://github.com/Hardikkhanduja)
-- LinkedIn: [Hardik Khanduja](https://linkedin.com/in/HardikKhanduja)
+- LinkedIn: [Hardik Khanduja](https://www.linkedin.com/in/hardik-khanduja-033a64259)
+- Email: khanduja.hardik001@gmail.com
 
 
 ## ⭐ Show your support
